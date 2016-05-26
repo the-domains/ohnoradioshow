@@ -22,7 +22,7 @@ color:
     - '#fe555b'
     - '#8532fe'
   brandStrength: 0.5
-  lightness: 0.9375
+  lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
