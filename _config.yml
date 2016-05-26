@@ -1,7 +1,7 @@
 name: OhNoRadioShow
 favicon: null
-layout_spectrum: 0.3134983715135604
-typography_spectrum: 0.36351379193365574
+layout_spectrum: 0.39164
+typography_spectrum: 0.69559
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.17393384268507361
-  lightness: 0.8718106581363827
-  saturation: 0.5234959681984037
-  rhythmicContrast: 0.643315555062145
+    - '#ffffff'
+    - '#2d2d2d'
+    - '#d10101'
+    - '#fe555b'
+    - '#8532fe'
+  brandStrength: 0.5
+  lightness: 0.9375
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
